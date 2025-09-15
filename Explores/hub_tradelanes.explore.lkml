@@ -5,5 +5,5 @@ explore: hub_tradelanes {
 
   hidden: no
   view_name: shipment_base
-  label: "Shipment Flow"
+  label: "Shipment Flow Elo"
 }
